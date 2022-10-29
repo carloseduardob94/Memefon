@@ -1,3 +1,11 @@
+import { Container } from './styles'
+
+import { PostCard } from './components/PostCard'
+
 export function App(){
-  return <h1>Hello World</h1>
+  return (
+    <Container>
+      <PostCard />
+    </Container>
+  )
 }

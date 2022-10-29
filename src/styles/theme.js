@@ -4,7 +4,7 @@ export default {
     GREEN: '#00C999',
 
     WHITE: '#FFFFFF',
-    GRAY: '#6C757D'
+    GRAY: 'hsla(0,0%,100%,.5)'
   },
 
   FONTS: {
