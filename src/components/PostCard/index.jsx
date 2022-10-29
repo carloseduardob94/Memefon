@@ -4,14 +4,42 @@ import { HeaderCard } from '../HeaderCard'
 import { Footer } from '../Footer'
 
 
-export function PostCard(){
+export function PostCard({ post }){
+  const { 
+    title,
+    videoUrl,
+    imageUrl,
+    category: { name },
+    user: { username, photo },
+    createdAt
+   } = post
+
+  const renderContent = () => {
+    if(videoUrl){
+      return <video preload="auto" loop="loop" muted="muted" autoPlay="autoplay">
+        <source src={videoUrl} />
+      </video>
+    }
+    if(imageUrl) return <img src={imageUrl} alt="" />
+
+    return null
+  }
+
   return(
     <Container>
-      <HeaderCard />
+      <HeaderCard 
+      photo={photo}
+      username={username}
+      date={createdAt}
+      category={name}
+    />
 
       <main>
-        <h2>Não precisa nem de DNA</h2>
-        <img src="https://memefon.s3.amazonaws.com/uploads/2022-10-28T07-22-50139Z-FB969C3D-5E84-4C9E-8760-3250B1C2A351.jpeg" alt="Image post" />
+        <h2>{title}</h2>
+
+        <article>
+          {renderContent()}
+        </article>
       </main>
 
       <Footer />

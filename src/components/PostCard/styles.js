@@ -15,11 +15,20 @@ export const Container = styled.div`
       padding-left: 0.8rem;
     }
 
-    img {
-      width: 50rem;
-      height: 50rem;
+    article {
+      video {
+        width: 50rem;
+        height: 50rem;
 
-      border-radius: 15px;
+        border-radius: 15px;
+      }
+
+      img {
+        width: 50rem;
+        height: 50rem;
+
+        border-radius: 15px;
+      }
     }
   }
 `
