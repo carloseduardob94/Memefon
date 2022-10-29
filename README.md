@@ -1,5 +1,3 @@
-# Memefon
-Uma homepage que consume uma lista de itens; que cada item tem: título, categoria, informações do usuário: (username, photo, data de publicação)
 <h1 align="center"> Memefon </h1>
 <p align="center">Uma homepage que consume uma lista de itens; que cada item tem: título, categoria, informações do usuário: (username, photo, data de publicação)</p>
 
