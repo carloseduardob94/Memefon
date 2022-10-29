@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "62ed303af10b4700169e0022",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Aprendan portugués amigos",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-08-05T14:59:06.320Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-08-05T11-34-17981Z-WhatsApp%20Video%202022-08-05%20at%2009.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62eab4b09e9431001695d60c",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Always the Brazilians",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-08-03T17:47:28.360Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-08-03T10-50-45548Z-WhatsApp%20Video%202022-08-03%20at%2007.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62e8273ee0b12c001645e38d",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Emoji for developers",
+      "category": { "name": "Computing" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-08-01T19:19:26.349Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-08-01T10-04-25923Z-trim.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62e7e986e0b12c001645e38c",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "O mundo da voltas",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-08-01T14:56:06.188Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-08-01T10-04-25923Z-F34BBB40-8352-42EB-AE3B-E3E02103A0AD.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62e58705b6c8990016661efa",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "The legend",
+      "category": { "name": "Movies" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-30T19:31:17.945Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-30T08-48-50997Z-aKmQzz6_460sv.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62e16349daba380016603b5c",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Valeu a pena",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-27T16:09:45.493Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-27T08-08-56645Z-714265BA-FBD2-4E83-9436-67330C58421D.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62db4c0d33f2910016b6b39d",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Há dias que me pergunto se eu realmente sei programar ",
+      "category": { "name": "Computing" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-23T01:17:01.611Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-22T06-34-30712Z-FDD4F83E-C659-4383-9145-4F4DA5BFDFA6.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62db4c0a33f2910016b6b39c",
+      "likesCount": 1,
+      "commentsCount": 1,
+      "title": "Smells like dead spirit ",
+      "category": { "name": "Sad" },
+      "user": {
+        "username": "marlonoso",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-18T15-47-50520Z-25CBB877-3479-4947-B2A3-2586A318014D.octet-stream"
+      },
+      "createdAt": "2022-07-23T01:16:58.828Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-22T06-34-30712Z-C5B600D4-7E86-41DB-A490-3DFB176A012A.jpeg",
+      "likedByCurrentUser": 1,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62d9f6921d4bdf00169e6a65",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Paint is the best",
+      "category": { "name": "Movies" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-22T01:00:02.806Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-21T06-04-09162Z-aqGoZqY_700b.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62d60439419b10001605c7a4",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Guess who's laughing now ? ",
+      "category": { "name": "Politics" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-19T01:09:13.529Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-18T10-33-02700Z-aZrYdPW_700b.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62d371bfeed2ff0016c44631",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "I don’t want to be horny anymore ",
+      "category": { "name": "Random" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-17T02:19:43.203Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-16T09-49-10616Z-trim.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62c65b0c25c26400167ff7ad",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "A idade chega para todos",
+      "category": { "name": "Computing" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-07T04:03:24.435Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-06T06-14-37120Z-E597EA74-DBB5-4003-ACA8-6F18D833CBCB.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62bf87e01b67ee0016a2f6f5",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Esta versión me gusta ",
+      "category": { "name": "Cooking" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-07-01T23:48:48.486Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-07-01T03-49-39946Z-C7AD1C02-0FE9-48FD-9709-894406F87E39.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62b712592463600016458ab8",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "He’s not wrong though ",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-06-25T13:49:13.025Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-06-24T20-31-40329Z-aog6Ayx_700b.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "62b659782463600016458ab7",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "That's my therapy",
+      "category": { "name": "Funny" },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-06-25T00:40:24.302Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-06-24T20-31-40329Z-azez4Kp_700b.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    }
+  ]
+}
